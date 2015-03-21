@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kitaabghar Downloader", "Kitaabghar Downloader\Kitaabghar Downloader.csproj", "{99DA0390-8674-43C0-BED5-F94AA0AD38EA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+		Ulti|x86 = Ulti|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{99DA0390-8674-43C0-BED5-F94AA0AD38EA}.Debug|x86.ActiveCfg = Debug|x86
+		{99DA0390-8674-43C0-BED5-F94AA0AD38EA}.Debug|x86.Build.0 = Debug|x86
+		{99DA0390-8674-43C0-BED5-F94AA0AD38EA}.Release|x86.ActiveCfg = Release|x86
+		{99DA0390-8674-43C0-BED5-F94AA0AD38EA}.Release|x86.Build.0 = Release|x86
+		{99DA0390-8674-43C0-BED5-F94AA0AD38EA}.Ulti|x86.ActiveCfg = Ulti|x86
+		{99DA0390-8674-43C0-BED5-F94AA0AD38EA}.Ulti|x86.Build.0 = Ulti|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
